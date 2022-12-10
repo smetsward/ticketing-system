@@ -17,7 +17,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Docker Build
-        run: docker build ${{ secrets.DOCKER_USER }}/ticketing-system
+        run: docker build --tag ${{ secrets.DOCKER_USER }}/ticketing-system:latest .
 
       - name: Upload container to Docker Hub with Push
-        run: docker push ${{ secrets.DOCKER_USER }}/ticketing-system
+        run: docker push ${{ secrets.DOCKER_USER }}/ticketing-system:latest
