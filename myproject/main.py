@@ -10,14 +10,14 @@ import models
 import schemas
 from database import SessionLocal, engine
 
-print("We are in the main.......")
-if not os.path.exists('.\sqlitedb'):
-    print("Making folder.......")
-    os.makedirs('.\sqlitedb')
-
-print("Creating tables.......")
-models.Base.metadata.create_all(bind=engine)
-print("Tables created.......")
+# print("We are in the main.......")
+# if not os.path.exists('.\sqlitedb'):
+#     print("Making folder.......")
+#     os.makedirs('.\sqlitedb')
+#
+# print("Creating tables.......")
+# models.Base.metadata.create_all(bind=engine)
+# print("Tables created.......")
 
 app = FastAPI()
 
