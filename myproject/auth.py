@@ -7,7 +7,7 @@ from jose import JWTError, jwt
 from passlib.context import CryptContext
 from sqlalchemy.orm import Session
 
-SECRET_KEY = "df277fe8f751991966d2ab2c08b4cda7b3d51e72be8570c9d81c26ae2ee7376d"
+SECRET_KEY = "3fa65ab0468d581b19a1b34cfbea12d36de60f6c877d94f1aecb459dd0e60c62"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
