@@ -15,7 +15,7 @@ class TicketCreate(TicketBase):
 
 class Ticket(TicketBase):
     id: int
-    Ticket_owner_id: int
+    ticket_owner_id: int
 
     class Config:
         orm_mode = True
