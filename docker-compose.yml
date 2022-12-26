@@ -1,11 +1,11 @@
 version: "3.9"
 services:
- system-service:
+ ticketing-system-service:
   image: wardsmetscode/ticketing-system
   ports:
     - "8000:8000"
   volumes:
-    - sqlite_useritems_volume:/code/sqlitedb
+    - sqlite_usertickets_volume:/code/sqlitedb
 
 volumes:
-  sqlite_useritems_volume:
+  sqlite_usertickets_volume:
