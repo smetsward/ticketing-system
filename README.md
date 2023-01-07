@@ -15,6 +15,8 @@ De APi werkt als een ticketingsysteem. Users kunnen zich aanmelden en een ticket
 
 ![4](https://user-images.githubusercontent.com/69649743/211146766-8be6de7a-8dc6-4024-bf3a-d2fcd6544503.PNG)
 ![5](https://user-images.githubusercontent.com/69649743/211146768-05f90e4d-6434-44b6-ae0e-28b35f5bf530.PNG)
+![docker](https://user-images.githubusercontent.com/69649743/211147571-8846510b-d069-42af-bdea-f50b66eac923.PNG)
+
 
 # API - werking Postman requests screenshots
 
