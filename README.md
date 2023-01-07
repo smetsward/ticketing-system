@@ -8,7 +8,7 @@ De APi werkt als een ticketingsysteem. Users kunnen zich aanmelden en een ticket
 
 - GitHub repository voor de API: https://github.com/smetsward/ticketing-system
 - GitHub repository voor de front-end: https://github.com/smetsward/smetsward.github.io
-- hosted API link: https://userticket-api-service-smetsward.cloud.okteto.net/
+- hosted API link: https://ticketing-system-service-smetsward.cloud.okteto.net
 - hosted front-end link: https://smetsward.github.io/
 
 # API - DEPLOYING
@@ -32,6 +32,8 @@ De APi werkt als een ticketingsysteem. Users kunnen zich aanmelden en een ticket
 ![postticket](https://user-images.githubusercontent.com/69649743/211146715-ea662f82-accc-497f-b930-b375d6466143.JPG)
 
 # API - OpenAPI docs screenshots
+
+- hosted OpenAPI docs link: https://ticketing-system-service-smetsward.cloud.okteto.net/docs
 
 ![openapi](https://user-images.githubusercontent.com/69649743/211146723-dd6f0dfc-88ad-45cc-be1f-0bf8f7ac6abb.JPG)
 
