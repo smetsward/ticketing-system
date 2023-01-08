@@ -4,12 +4,22 @@
 
 De APi werkt als een ticketingsysteem. Users kunnen zich aanmelden en een ticket en product maken onder u id nummer die wordt meegegeven bij het aanmelden. Het ticket kunnen ze aanpassen en verwijderen De inspiratie om dit te maken komt van mij werk. Op mijn werk zijn we op zoek naar een nieuw ticketingsysteem. Dan was het een leuk idee om zelf eens te proberen een ticketingsysteem te maken.
 
-# API - Links
+API - Links
 
 - GitHub repository voor de API: https://github.com/smetsward/ticketing-system
 - GitHub repository voor de front-end: https://github.com/smetsward/smetsward.github.io
+- GitHub repository voor de API Mongodb: https://github.com/smetsward/fastapi-mongodb
+- GitHub repository voor de API:https://github.com/smetsward/ticketing-system-frontend
+
 - hosted API link: https://ticketing-system-service-smetsward.cloud.okteto.net
-- hosted front-end link: https://smetsward.github.io/
+- hosted API link frontend: https://ticketing-system-frontend-service-smetsward.cloud.okteto.net
+- hosted front-end link: https://smetsward.github.io/ 
+- hosted front-end link: https://smetsward.github.io/mongodb.html
+- hosted front-end on Netlify link: https://ticketing-system-service.netlify.app/
+
+- hosted OpenAPI docs link: https://ticketing-system-service-smetsward.cloud.okteto.net/docs
+- hosted OpenAPI docs link frontend:https://ticketing-system-frontend-service-smetsward.cloud.okteto.net/docs
+- hosted OpenAPI docs link Mongodb: https://system-service-fastapi-mongodb-smetsward.cloud.okteto.net/docs
 
 # API - DEPLOYING
 
